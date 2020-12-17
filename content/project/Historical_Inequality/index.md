@@ -7,7 +7,7 @@ image:
 links:
 
 slides:
-summary: What social changes yield a society that is more equitable, sustainable, resilient, and robust?
+summary: Identifies a need for direct intervention in historically entrenched forms of inequality.
 tags:
 - Climate Justice 
 - Sustainable Development
