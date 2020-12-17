@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brett Clark | Patrick Trent Greiner</title>
+    <link>https://patricktrentgreiner.com/author/brett-clark/</link>
+      <atom:link href="https://patricktrentgreiner.com/author/brett-clark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brett Clark</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PTG - 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://patricktrentgreiner.com/media/pic.png</url>
+      <title>Brett Clark</title>
+      <link>https://patricktrentgreiner.com/author/brett-clark/</link>
+    </image>
+    
+    <item>
+      <title>W.E.B. Du Bois and interdisciplinarity- A comprehensive picture of the scholar’s approach to natural science</title>
+      <link>https://patricktrentgreiner.com/publication/dubois_science/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://patricktrentgreiner.com/publication/dubois_science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

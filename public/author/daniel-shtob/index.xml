@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Shtob | Patrick Trent Greiner</title>
+    <link>https://patricktrentgreiner.com/author/daniel-shtob/</link>
+      <atom:link href="https://patricktrentgreiner.com/author/daniel-shtob/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Shtob</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PTG - 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://patricktrentgreiner.com/media/pic.png</url>
+      <title>Daniel Shtob</title>
+      <link>https://patricktrentgreiner.com/author/daniel-shtob/</link>
+    </image>
+    
+    <item>
+      <title>Is Urbanization Good for the Climate? A Cross-County Analysis of Impervious Surface, Affluence, and the Carbon Intensity of Well-Being</title>
+      <link>https://patricktrentgreiner.com/publication/urban_ciwb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://patricktrentgreiner.com/publication/urban_ciwb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

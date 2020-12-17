@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Dixon | Patrick Trent Greiner</title>
+    <link>https://patricktrentgreiner.com/author/adam-dixon/</link>
+      <atom:link href="https://patricktrentgreiner.com/author/adam-dixon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adam Dixon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PTG - 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://patricktrentgreiner.com/media/pic.png</url>
+      <title>Adam Dixon</title>
+      <link>https://patricktrentgreiner.com/author/adam-dixon/</link>
+    </image>
+    
+    <item>
+      <title>Designing spatiotemporal multifunctional landscapes to support dynamic wildlife conservation</title>
+      <link>https://patricktrentgreiner.com/publication/agbirds/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://patricktrentgreiner.com/publication/agbirds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

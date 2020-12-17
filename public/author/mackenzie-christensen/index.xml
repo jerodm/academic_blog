@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mackenzie Christensen | Patrick Trent Greiner</title>
+    <link>https://patricktrentgreiner.com/author/mackenzie-christensen/</link>
+      <atom:link href="https://patricktrentgreiner.com/author/mackenzie-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mackenzie Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PTG - 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://patricktrentgreiner.com/media/pic.png</url>
+      <title>Mackenzie Christensen</title>
+      <link>https://patricktrentgreiner.com/author/mackenzie-christensen/</link>
+    </image>
+    
+    <item>
+      <title>Gender inequality, reproductive justice, and decoupling economic growth and emissions- a panel analysis of the moderating association of gender equality on the relationship between economic growth and CO2 emissions.</title>
+      <link>https://patricktrentgreiner.com/publication/gender_emissions/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://patricktrentgreiner.com/publication/gender_emissions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
