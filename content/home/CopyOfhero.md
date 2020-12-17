@@ -17,7 +17,7 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
 # Background color.
-   color = "tan"
+   color = ""
   
 # Background gradient.
   gradient_start = "#4bb4e3"
