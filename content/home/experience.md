@@ -30,7 +30,7 @@ experience:
   date_end: ""
   date_start: "2018-08-24"
   description: |-
-    Responsibilities include teaching:
+    Responsibilities include research, service and committee work, and teaching the following courses:
     * Environment and Society
     * Environmental Justice and Inequality
     * Social Contexts of Public Policy
@@ -50,7 +50,7 @@ experience:
   date_end: "2018-05-25"
   date_start: "2013-09-25"
   description: |-
-    Responsibilities include teaching:
+    Responsibilities include research, graduate program service, serving as graduate assistant for various courses, and sole instructor of record for the following courses:
     * Social Science Statistics
     * Social Science Research Methods
   location: Eugene, OR
