@@ -7,7 +7,7 @@ education:
     year: 2018
   - course: MS in Sociology
     institution: University of Oregon
-    year: 2013
+    year: 2015
   - course: BA in Poltics and Policy
     institution: Washington State University
     year: 2013
