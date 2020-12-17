@@ -23,7 +23,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: We use migratory birds as a working example to present a dynamic conservation opportunity and related challenges.
 tags:
-- Source Themes
+- Socio-ecological Systems
+- Land Use Change
+- Biodiversity Loss
+
 title: Designing spatiotemporal multifunctional landscapes to support dynamic wildlife conservation
 url_code: ""
 url_dataset: ""

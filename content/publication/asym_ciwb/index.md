@@ -22,7 +22,9 @@ publishDate: "2017-01-01T00:00:00Z"
 #slides:
 summary: We explore the asymmetrical relationship between economic activity and CIWB for 153 nations from 1961–2013, as well as the theoretical implications of such a relationship.
 tags: 
-#- Source Themes
+- Carbon Intensity of Well Being
+- Decoupling
+- Asymmetry
 title: The asymmetry of economic growth and the carbon intensity of well-being
 #url_code: ""
 #url_dataset: ""

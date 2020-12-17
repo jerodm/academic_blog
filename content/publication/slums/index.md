@@ -18,10 +18,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides:
 summary: While urbanization is associated with increases in CIWB, the relationship between urban development and CIWB is vastly different in developed nations without slums than in under-developed nations with slums.
 tags:
-- Source Themes
+- Land Use Change
+- Historical Inequality
+- Decoupling
+- Climate Justice
+- Sustainable Development
 title: How do slums change the relationship between urbanization and the carbon intensity of well-being?
 url_code: ""
 url_dataset: ""

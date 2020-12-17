@@ -19,7 +19,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Renewable energy displaces more fossil fuel energy sources when inequality is increasing, while– conversely– fewer existing fossil fuel energy sources are displaced when inequality is decreasing. Efforts aimed at increasing renewable energy consumption should adopt policies that ensure the effective displacement of fossil fuels and reduce inequality.
 tags:
-- Source Themes
+- Income Inequality
+- Decoupling
+- Energy
+- Climate Justice
+- Sustainable Development
 title: Renewable energy injustice- The socio-environmental implications of renewable energy consumption
 url_code: ""
 url_dataset: ""

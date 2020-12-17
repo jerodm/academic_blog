@@ -22,7 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: In nations with more gender equality, the association between GDP per capita and CO2 emissions is much lower than in nations with higher levels of gender inequality.
 tags:
-- Source Themes
+- Gender Inequality
+- Decoupling
 title: Gender inequality, reproductive justice, and decoupling economic growth and emissions- a panel analysis of the moderating association of gender equality on the relationship between economic growth and CO2 emissions.
 #url_code: ""
 #url_dataset: ""

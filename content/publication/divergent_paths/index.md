@@ -19,7 +19,9 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Core nations have an attenuated relationship between GDP per capita and emissions per capita at higher levels of economic activity, while those in the semiperiphery have a relationship that approximates the curve of a U. The majority of variation in emissions is correlated with time-invariant variables, not with time-variant predictors, such as GDP.
 tags:
-- Source Themes
+- Historical Inequality
+- Climate Justice
+- Sustainable Development
 title: Divergent Pathways on the Road to Sustainability- A Multilevel Model of the Effects of Geopolitical Power on the Relationship between Economic Growth and Environmental Quality
 url_code: ""
 url_dataset: ""

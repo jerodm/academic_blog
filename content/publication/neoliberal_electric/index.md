@@ -19,7 +19,9 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: The difficulties of implementing renewables effectively in a social landscape characterized by systemic racial inequalities, neoliberal policy, environmental change, and regularized disaster.
 tags:
-- Source Themes
+- Neoliberalism
+- Historical Inequality
+- Energy
 title: How Long Can Neoliberalism Withstand Climate Crisis?
 url_code: ""
 url_dataset: ""

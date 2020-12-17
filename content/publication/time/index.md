@@ -18,7 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: In nations belonging to the core and semi-periphery, temporal advance is associated with increases in CO2 emissions per capita, rather than the decreases that might be expected
 tags:
-- Source Themes
+- Historical Inequality
+- Sustainable Development
+- Climate Justice
+- Decoupling
 title: Time, Power and Environmental Impact- A Growth Curve Model of the Relationship Between Temporal Change and CO2 Emissions Per Capita.
 url_code: ""
 url_dataset: ""

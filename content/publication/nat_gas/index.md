@@ -20,7 +20,9 @@ publishDate: "2017-01-01T00:00:00Z"
 #slides:
 summary: CO2 emissions from natural gas sources do not displace CO2 emissions from coal. These results cast doubt on whether the growing use of natural gas is likely to help substantially reduce CO2 emissions.
 tags: 
-#- Source Themes
+- Displacement
+- Energy
+- Technology
 title: Snakes in The Greenhouse- Does increased natural gas use reduce carbon dioxide emissions from coal consumption?
 #url_code: ""
 #url_dataset: ""

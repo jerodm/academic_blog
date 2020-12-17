@@ -19,7 +19,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: An exploration of the links between the development of the racial and fossil capitalism.
 tags:
-- Source Themes
+- Racial Inequality
+- Historical Inequality
+- Climate Justice
+- Sustainable Development
+- Social Theory
 title: Racial Justice is Climate Justice- Racial capitalism and the fossil economy
 url_code: ""
 url_dataset: ""

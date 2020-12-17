@@ -20,7 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: We explore how the relationship between the intensity of urban development and the environmental intensity of social activity hinges upon the composition of the various dimensions of urban change (e.g., the extent and concentration of the built environment, the size and density of resident populations, and the availability of social resources).
 tags:
-- Source Themes
+- CIWB
+- Decoupling
+- Land Use Change
+- Income Inequality
 title: Is Urbanization Good for the Climate? A Cross-County Analysis of Impervious Surface, Affluence, and the Carbon Intensity of Well-Being
 #url_code: ""
 #url_dataset: ""

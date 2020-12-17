@@ -18,7 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Water utility privatization in the United States follows the logic of a variegated neoliberalism and constitutes a form of environmental injustice.
 tags:
-- Source Themes
+- Water Resources
+- Environmental Justice
+- Neoliberalism
+- Socio-ecological Systems
 title: Social drivers of water utility privatization in the United States- an examination of the presence of variegated neoliberal strategies in the water utility sector
 url_code: ""
 url_dataset: ""

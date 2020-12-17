@@ -21,7 +21,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Over time, at the country level, increasing economic inequality reduces renewable energy consumption, with no evidence of reciprocal feedback.
 tags:
-- Source Themes
+- Sustainable Development
+- Climate Justice
+- Income Inequality
+- Energy
+- Decoupling
 title: Are the Goals of Sustainability Interconnected? A Sociological Analysis of the Three E’s of Sustainable Development Using Cross-Lagged Models with Reciprocal Effects
 url_code: ""
 url_dataset: ""

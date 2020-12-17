@@ -18,7 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: A discussion of the form that debates over privatization of water resources have taken, as well as how the act of privatization has been found to impact access to water systems and the quality of the service they provide.
 tags:
-- Source Themes
+- Water Resources
+- Neoliberalism
+- Climate Justice
+- Sustainable Development
+- Socio-Ecological Systems
 title: Community water system privatization and the water access crisis
 #url_code: ""
 #url_dataset: ""

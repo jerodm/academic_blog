@@ -20,7 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Throughout his life, W.E.B. Du Bois actively engaged the scientific racism infecting natural sciences and popular thought. We draw on archival research and Du Bois’ own scholarship to investigate his general approach to interdisciplinarity in efforts to curb the racism of his time through empiricism.
 tags:
-- Source Themes
+- Historical Inequality
+- Du Bois
+- Transdisciplinary Science
+- History of Science
+- Social Theory
 title: W.E.B. Du Bois and interdisciplinarity- A comprehensive picture of the scholar’s approach to natural science
 #url_code: ""
 #url_dataset: ""

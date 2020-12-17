@@ -20,7 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: In areas of the southern United States, rural growth was associated with afforestation, not deforestation. We speculate on how this unusual finding contributes to the debate between ecological modernization and urban political economy.
 tags:
-- Source Themes
+- Land Use Change
+- Sustainable Development
 title: The Environmental Consequences of Rural and Urban Population Change- An Exploratory Spatial Panel Study of Forest Cover in the Southern United States, 2001–2006
 url_code: ""
 url_dataset: ""

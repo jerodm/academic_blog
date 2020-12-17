@@ -19,7 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Between 1985 and 2011 rising income inequality led to a tighter coupling between economic growth and CO2 emissions in developed nations.
 tags:
-- Source Themes
+- Income Inequality
+- Decoupling
 title: Can Reducing Income Inequality Decouple Economic Growth from CO2 Emissions?
 url_code: ""
 url_dataset: ""

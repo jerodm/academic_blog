@@ -20,7 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: Increases in incarceration within states are associated with increases in industrial emissions, and that increases in incarceration lead to a more tightly coupled association between gross domestic product per capita and industrial emissions.
 tags:
-- Source Themes
+- Mass Incarceration
+- Decoupling
+- Historical Inequality
+- Racial Inequality
 title: Locked into Emissions- How Mass Incarceration Contributes to Climate Change
 #url_code: ""
 #url_dataset: ""
