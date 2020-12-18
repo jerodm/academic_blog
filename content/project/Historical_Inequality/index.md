@@ -2,7 +2,7 @@
 date: "2020-12-16T00:00:00Z"
 external_link: ""
 image:
-  caption: Source-[**Bartholomew John. ca. 1850. British Empire throughout the world exhibited in one view.**](https://www.loc.gov/resource/g5730.ct000158/?r=-0.53,-0.017,2.06,0.927,0)
+  caption: Source- [Bartholomew, John. ca. 1850. British empire throughout the world exhibited in one view.](https://www.loc.gov/resource/g5730.ct000158/?r=-0.53,-0.017,2.06,0.927,0)
   focal_point: Smart
 links:
 

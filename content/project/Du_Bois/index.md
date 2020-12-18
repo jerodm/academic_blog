@@ -2,16 +2,15 @@
 date: "2020-12-16T00:00:00Z"
 external_link: ""
 image:
-  caption: Source-[**Humphrey Willis. 2008. Mapping Courage: Honoring W.E.B. Du Bois & Engine #11.**](https://map.muralarts.org/)
+  caption: Source- [Humphrey, Willis. 2008. Mapping Courage](https://map.muralarts.org/)
   focal_point: Smart
 links:
 
 slides:
-summary: Identify and use the sociological framework, and epistemic underpinnings, of W.E.B. Du Bois to better integrate the analysis of social control, resource use, land use change, and sustainable development.
+summary: Identify and employ the frameworks and epistemology of Du Bois to better understand the role of race and inequality in socio-ecological systems.
 tags:
 - Du Bois 
 - Racial Inequality
-- Historical Inequality
 - Black Radical Tradition
 - Transdisciplinary Science
 title: Du Bois, Inequality, and Environment- From the classical to the cutting edge

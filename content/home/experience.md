@@ -50,7 +50,7 @@ experience:
   date_end: "2018-05-25"
   date_start: "2013-09-25"
   description: |-
-    Responsibilities include research, graduate program service, serving as graduate assistant for various courses, and sole instructor of record for the following courses:
+    Responsibilities included research, graduate program service, serving as graduate assistant for various courses, and sole instructor of record for the following courses:
     * Social Science Statistics
     * Social Science Research Methods
   location: Eugene, OR

@@ -33,6 +33,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Historical Inequality"
     tag = "Historical Inequality"
+    
+  [[content.filter_button]]
+    name = "W.E.B. Du Bois"
+    tag = "Du Bois"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
