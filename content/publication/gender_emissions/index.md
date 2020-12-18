@@ -24,6 +24,7 @@ summary: In nations with more gender equality, the association between GDP per c
 tags:
 - Gender Inequality
 - Decoupling
+- Sustainable Development
 title: Gender inequality, reproductive justice, and decoupling economic growth and emissions- a panel analysis of the moderating association of gender equality on the relationship between economic growth and CO2 emissions.
 #url_code: ""
 #url_dataset: ""
