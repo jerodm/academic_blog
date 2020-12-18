@@ -6,7 +6,7 @@ date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1111/soc4.12785"
 featured: true
 image:
-  caption: Source- [Detroit Water Brigade. 2014.](http://detroitwaterbrigade.org/detroit-water-crisis-prelude-privatization-water/)
+  caption: Detroit water privatization protests. Source- [Brusky, Joe. 2014.Hands Off Our Water.](https://www.flickr.com/photos/40969298@N05/albums/72157645760735142/with/14501491070/)
   focal_point: ""
   preview_only: false
 projects: []
