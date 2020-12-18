@@ -4,7 +4,7 @@ authors:
 - Patrick Trent Greiner
 date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1111/soc4.12785"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
