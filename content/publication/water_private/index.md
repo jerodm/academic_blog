@@ -6,7 +6,7 @@ date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1111/soc4.12785"
 featured: true
 image:
-  caption: Source- [Detroit Water Brigade](http://detroitwaterbrigade.org/detroit-water-crisis-prelude-privatization-water/)
+  caption: Source- [Detroit Water Brigade. 2014.](http://detroitwaterbrigade.org/detroit-water-crisis-prelude-privatization-water/)
   focal_point: ""
   preview_only: false
 projects: []
