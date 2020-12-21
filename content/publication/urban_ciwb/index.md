@@ -8,7 +8,7 @@ date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.1177/2378023119896896"
 featured: true
 image:
-  caption: '[cloropleth maps of impervious surface extent and CIWB, respectivley.](https://journals.sagepub.com/doi/full/10.1177/2378023119896896)'
+  caption: '[cloropleth maps of CIWB and impervious surface extent.](https://journals.sagepub.com/doi/full/10.1177/2378023119896896)'
   focal_point: ""
   preview_only: false
 projects: []

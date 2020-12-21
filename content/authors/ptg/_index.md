@@ -36,10 +36,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/patrick-greiner-8a9a3343/
-  
- #- icon: cv
- #icon_pack: ai
- #link: /files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: /files/cv.pdf
 superuser: true
 
 ---
