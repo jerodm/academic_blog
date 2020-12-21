@@ -27,12 +27,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: cv
-  icon_pack: ai
-  link: /files/cv.pdf
 - icon: academia
   icon_pack: ai
   link: https://vanderbilt.academia.edu/PatrickGreiner
+- icon: cv
+  icon_pack: ai
+  link: /files/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mjZ1R5EAAAAJ&hl=en
