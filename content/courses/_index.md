@@ -6,7 +6,7 @@ layout: docs
 title: Courses
 ---
 
-{{% staticref "files/Environmental Inequality and Justice (2).pdf" "newtab" %}}Environmental Inequality and Justice:{{% /staticref %}}
+{{% staticref "files/Environmental Inequality and Justice.pdf" "newtab" %}}Environmental Inequality and Justice:{{% /staticref %}}
 Over the course of the last 200 years the texture of social life has been dramatically transformed in nearly every corner of the globe. Often times these transformations are viewed through the lens of the benefits they have brought to bear. However, the cost of our progress has never been shared by all those who benefit from it. This arrangement has proven to be unjust and unsustainable. Locally and globally ecological processes are being transformed by the byproducts of our progress - threatening the well-being of humans, non-human animals, and the spaces that bind them. It has never been more important to consider the processes by which particular populations and their environments are sacrificed as payment for the maintenance of the modern, global society. This is the task taken up in this course. Students learn:
 1) to interrogate and better understand the structures of our society that are generative of the inequalities we have come to term environmental injustice.
 2) to consider what progress the environmental justice movement has made in reducing these inequalities, what the limitations of the movement have been, and what shape the movement is likely to take in the future.
