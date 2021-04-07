@@ -8,7 +8,7 @@ authors:
 - Matthew Thomas Clement
 date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1080/23251042.2020.1736364"
-featured: true
+featured: false
 image:
   caption: 'Figure 1a & b: [**Estimated relationship between gender equity, economic development, and emissions per capita.**](https://www.tandfonline.com/doi/abs/10.1080/23251042.2020.1736364)'
   focal_point: ""
