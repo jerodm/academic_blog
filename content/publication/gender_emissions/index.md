@@ -30,7 +30,7 @@ title: Gender inequality, reproductive justice, and decoupling economic growth a
 #url_dataset: ""
 url_pdf: files/gender_emissios.pdf
 #url_poster: ""
-url_project: ""
+#url_project: ""
 #url_slides: ""
 #url_source: ""
 #url_video: "https://rpubs.com/pgreiner/689295"
