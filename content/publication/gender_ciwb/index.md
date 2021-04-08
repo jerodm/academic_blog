@@ -9,7 +9,7 @@ date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.3390/su13073956"
 featured: true
 image:
-  caption: 'Figure 2: [**Estimated relationship between women's labor force participation and CIWB, conditioned on women's education.**](https://www.mdpi.com/2071-1050/13/7/3956)'
+  caption: 'Figure 2: [**Estimated relationship between labor force participation of women and CIWB, conditioned on educational attainment of women.**](https://www.mdpi.com/2071-1050/13/7/3956)'
   focal_point: ""
   preview_only: false
 projects: []
