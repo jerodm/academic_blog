@@ -7,7 +7,7 @@ authors:
 - Matthew Thomas Clement
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.3390/su13073956"
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
