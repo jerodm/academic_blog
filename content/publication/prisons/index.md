@@ -6,7 +6,7 @@ authors:
 - Carl Appleton
 date: "2020-11-01T00:00:00Z"
 doi: "https://doi.org/10.1177/2329496520974006"
-featured: true
+featured: false
 image:
   caption: 'Figure 1: [**As more people are incarcerated growing the economy becomes more carbon intensive**](https://journals.sagepub.com/doi/full/10.1177/2329496520974006)'
   focal_point: ""
