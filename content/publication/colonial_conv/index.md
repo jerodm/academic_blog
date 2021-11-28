@@ -1,7 +1,6 @@
 ---
 abstract: While fossil fuels were powering wealthy nations’ economic growth in the 19th and 20th centuries, many countries across the Global South remained largely impoverished.
 Today, all that burning of oil, coal and natural gas has warmed the planet toward dangerous levels, and science shows that fossil fuel use must decline to slow climate change. At the same time, more than 40% of the global population survives on less than US$5.50 a day, primarily in developing countries. Fossil fuels are still among the cheapest ways to power economic growth, making them hard for developing countries to ignore. So, can we find a way to lift nearly half of the world out of poverty and still reduce fossil fuel use? I believe there can be no sustainable development, and likely no energy transition, if poverty is not addressed too. Current international efforts, like the chronically underfunded U.N. Green Climate Fund aren’t doing enough.
-
 authors:
 - Patrick Trent Greiner
 

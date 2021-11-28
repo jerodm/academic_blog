@@ -24,6 +24,7 @@ tags:
 - Climate Justice
 - Sustainable Development
 - Social Theory
+
 title: Racial Justice is Climate Justice- Racial capitalism and the fossil economy
 url_code: ""
 url_dataset: ""
