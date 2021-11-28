@@ -18,7 +18,7 @@ projects: []
 publication: '*Journal of Land Use Science, 13*(6)'
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: We use migratory birds as a working example to present a dynamic conservation opportunity and related challenges.
