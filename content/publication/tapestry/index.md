@@ -14,7 +14,7 @@ projects: []
 publication: '*The Hampton Institute*'
 publication_short: ""
 publication_types:
-- "2"
+- "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: An exploration of the links between the development of the racial and fossil capitalism.
