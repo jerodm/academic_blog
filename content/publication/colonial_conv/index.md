@@ -13,7 +13,7 @@ projects: []
 publication: '*The Conversation*'
 publication_short: ""
 publication_types:
-- "2"
+- "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Can we find a way to lift nearly half of the world out of poverty and still reduce fossil fuel use? There can be no sustainable development, and likely no energy transition, if poverty is not addressed too.
