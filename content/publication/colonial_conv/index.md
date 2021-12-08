@@ -22,7 +22,6 @@ tags:
 - Historical Inequality
 - Sustainable Development
 - Climate Justice
-- Energy Justice
 
 title: How colonialism's legacy makes it harder for countries to escape poverty and fossil fuels today
 url_code: ""
