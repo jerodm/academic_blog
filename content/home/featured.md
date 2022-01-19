@@ -27,7 +27,7 @@ content:
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
   # Show a "See all" link?
   link_to_archive: true
 design:

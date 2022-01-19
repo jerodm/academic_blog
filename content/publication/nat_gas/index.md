@@ -6,7 +6,7 @@ authors:
 - Julius Alexander McGee
 date: "2018-04-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.erss.2018.02.001"
-featured: true
+featured: false
 image:
   caption: 'Paradise Fossil Power Plant, KY. Image credit: [**Chattanoga Times Free Press**](https://www.timesfreepress.com/news/local/story/2018/aug/27/trouble-paradisetvstudies-whether-close-more-c/477822/)'
   focal_point: ""
