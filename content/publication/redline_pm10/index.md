@@ -21,7 +21,9 @@ summary: Historical redlining is associated with present day pollution, and inte
 tags: 
 - Environmental Justice
 - Environmental Racism
-- Sustainanable Development
+- Climate Justice 
+- Sustainable Development
+- Historical Inequality
 
 title: Does racism have inertia? A study of historic redlining's impact on present-day associations between development and air pollution in US cities.
 #url_code: ""

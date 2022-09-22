@@ -23,6 +23,7 @@ tags:
 - Displacement
 - Energy
 - Technology
+- Sustainable Development
 title: When are fossil fuels displaced? An exploratory inquiry into the role of nuclear electricity production in the displacement of fossil fuels.
 #url_code: ""
 #url_dataset: ""
