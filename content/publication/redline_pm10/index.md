@@ -3,7 +3,7 @@ abstract: We explore how Home Owners' Loan Corporation (HOLC) scores of the 1930
 authors:
 - Patrick Trent Greiner
 - Rachel G. McKane
-date: "2022-04-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: "https://doi.org/10.1088/1748-9326/ac9070"
 featured: true
 image:
