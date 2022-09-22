@@ -24,6 +24,7 @@ tags:
 - Climate Justice 
 - Sustainable Development
 - Historical Inequality
+- Decoupling
 
 title: Does racism have inertia? A study of historic redlining's impact on present-day associations between development and air pollution in US cities.
 #url_code: ""
