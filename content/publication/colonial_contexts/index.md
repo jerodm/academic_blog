@@ -6,7 +6,7 @@ date: "2022-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.gloenvcha.2022.102609"
 featured: true
 image:
-  caption: 'Distribution of social ecological attributes conditioned on 1930s redline maps.'
+  caption: 'Association of emissions measures and development across colonial contexts.'
   focal_point: ""
   preview_only: false
 projects: []
