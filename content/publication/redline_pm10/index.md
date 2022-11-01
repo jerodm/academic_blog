@@ -1,35 +1,33 @@
 ---
-abstract: We explore how Home Owners' Loan Corporation (HOLC) scores of the 1930s impact 2010 and 2015 inhalable particulate matter (PM10) concentrations for 15,232 census tracts, clustered in 196 cities throughout the contiguous United States. Using areal apportionment, we assign a HOLC score to housing tracts and construct hierarchical linear models to examine the relationship between the policy practice of redlining, PM pollution, and urban economic development. We find that redlining is associated with higher PM10 concentrations, and that higher HOLC grades also intensify the association of per capita income, median rent, median home values, and racial composition with PM10. These findings suggest that historical policy programs that were grounded in racial logics—such as the HOLC practice of 'redlining'—have an inertia that results in them influencing development pathways and environmental outcomes of built environments for decades.
+abstract: It has long been accepted that the relative affluence and technological efficiency of nations are important contributors to their rate of emissions. These associations have, in turn, driven questions about the feasibility of mitigating anthropogenic greenhouse gas emissions through incremental transition to “business as usual” policy structures in variant social contexts. Here, I explore the extent to which the historical context of colonial relations impacts the feasibility of a nation mitigating emissions per capita, emissions per dollar, and total emissions under current development logics. To do so I examine the structure of variation for 152 nations during the 1960–2018 period. Subsequently, I examine how being situated as an extractive colony in the past serves to moderate the association of GDP per capita with CO 2 emissions per capita, CO 2 emissions per dollar, and total CO 2 emissions in the present. I find that roughly 11% of cross-national variation in CO 2 emissions per capita and CO 2 emissions per dollar, as well as nearly 6% of variation in total CO 2 emissions between 1960 and 2018 is attributable to having been historically subjected to extractive colonial processes. These findings suggest that mitigation of emissions through transition of “business as usual” policy structures appears significantly less feasible for nations positioned as extractive colonies in the past, relative to all others.
 authors:
 - Patrick Trent Greiner
-- Rachel G. McKane
-date: "2022-09-01T00:00:00Z"
-doi: "https://doi.org/10.1088/1748-9326/ac9070"
+date: "2022-10-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.gloenvcha.2022.102609"
 featured: true
 image:
   caption: 'Distribution of social ecological attributes conditioned on 1930s redline maps.'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Environmental Research Letters, 17*(10)'
+publication: '*Global Environmental Change, 77*'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides:
-summary: Historical redlining is associated with present day pollution, and intensifies the relationship between development and pollution as well.
+summary: Historical exposure to logics of extractive colonialism accounts for up to 11% of variation in emissions-development relationships across nations, and moderates the association that emissions per capita, emissions per dollar, and total emissions have with development.
 tags: 
-- Environmental Justice
-- Environmental Racism
+
 - Climate Justice 
 - Sustainable Development
 - Historical Inequality
 - Decoupling
 
-title: Does racism have inertia? A study of historic redlining's impact on present-day associations between development and air pollution in US cities.
+title: Colonial contexts and the feasibility of mitigation through transition: A study of the impact of historical processes on the emissions dynamics of nation-states.
 #url_code: ""
 #url_dataset: ""
-url_pdf: files/redline_pm10.pdf
+url_pdf: files/colonial_contexts_and_transitions.pdf
 #url_poster: ""
 url_project: ""
 #url_slides: ""
