@@ -2,7 +2,7 @@
 abstract: It has long been accepted that the relative affluence and technological efficiency of nations are important contributors to their rate of emissions. These associations have, in turn, driven questions about the feasibility of mitigating anthropogenic greenhouse gas emissions through incremental transition to “business as usual” policy structures in variant social contexts. Here, I explore the extent to which the historical context of colonial relations impacts the feasibility of a nation mitigating emissions per capita, emissions per dollar, and total emissions under current development logics. To do so I examine the structure of variation for 152 nations during the 1960–2018 period. Subsequently, I examine how being situated as an extractive colony in the past serves to moderate the association of GDP per capita with CO 2 emissions per capita, CO 2 emissions per dollar, and total CO 2 emissions in the present. I find that roughly 11% of cross-national variation in CO 2 emissions per capita and CO 2 emissions per dollar, as well as nearly 6% of variation in total CO 2 emissions between 1960 and 2018 is attributable to having been historically subjected to extractive colonial processes. These findings suggest that mitigation of emissions through transition of “business as usual” policy structures appears significantly less feasible for nations positioned as extractive colonies in the past, relative to all others.
 authors:
 - Patrick Trent Greiner
-date: "2022-10-01T00:00:00Z"
+date: "2022-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.gloenvcha.2022.102609"
 featured: true
 image:
