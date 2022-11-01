@@ -17,12 +17,12 @@ publication_types:
 publishDate: "2017-01-01T00:00:00Z"
 #slides:
 summary: Historical exposure to logics of extractive colonialism accounts for up to 11% of variation in emissions-development relationships across nations, and moderates the association that emissions per capita, emissions per dollar, and total emissions have with development.
-tags: 
+tags:
 - Climate Justice 
 - Sustainable Development
 - Historical Inequality
 - Decoupling
-title: Colonial contexts and the feasibility of mitigation through transition: A study of the impact of historical processes on the emissions dynamics of nation-states.
+title: Colonial contexts and the feasibility of mitigation through transition: A study of the impact of historical processes on the emissions dynamics of nation-states
 #url_code: ""
 #url_dataset: ""
 url_pdf: files/colonial_contexts_and_transitions.pdf
