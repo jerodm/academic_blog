@@ -22,7 +22,7 @@ tags:
 - Sustainable Development
 - Historical Inequality
 - Decoupling
-title: Colonial contexts and the feasibility of mitigation through transition: A study of the impact of historical processes on the emissions dynamics of nation-states
+title: Colonial contexts and the feasibility of mitigation through transition- A study of the impact of historical processes on the emissions dynamics of nation-states
 #url_code: ""
 #url_dataset: ""
 url_pdf: files/colonial_contexts_and_transitions.pdf
