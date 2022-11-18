@@ -29,7 +29,7 @@ tags:
 title: Does racism have inertia? A study of historic redlining's impact on present-day associations between development and air pollution in US cities
 #url_code: ""
 #url_dataset: ""
-url_pdf: files/redlin_pm10.pdf
+url_pdf: files/redline_pm10.pdf
 #url_poster: ""
 url_project: ""
 #url_slides: ""
